@@ -25,4 +25,4 @@ jobs:
     
     - name: Tests unitaires
       run: |
-        ls
+        make test
