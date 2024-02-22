@@ -26,4 +26,4 @@ jobs:
     - name: Tests unitaires
       run: |
         cd build
-        make
+        make test
